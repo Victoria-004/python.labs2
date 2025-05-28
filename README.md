@@ -23,7 +23,7 @@ iншого гравця, i вiн намагається зробити те с�
 1
 Приклад 1
 wchain .in
-10
+"10
 crates
 car
 cats
@@ -33,7 +33,7 @@ at
 ate
 tea
 rat
-a
+a"
 wchain .out
 6
 Пояснення: Можливий ланцюжок: crates > crate > rate > ate > at > a.
